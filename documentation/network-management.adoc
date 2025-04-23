@@ -14,7 +14,7 @@
 :author: Michael Hunger
 :tags: network-mgt,it-operations,datacenter
 :images: https://dl.dropboxusercontent.com/u/14493611
-:images: {img}
+:images: img
 :experimental:
 
 Computer networks span all levels of the stack from physical connections up to mobile and web-applications connecting networks of users.
